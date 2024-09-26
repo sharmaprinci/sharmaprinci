@@ -1,5 +1,5 @@
 
-![developer background](assets/banner.avif)
+![developer background](assets/banner.jpg)
 
 <h1>Hi 👋, I'm Princi Sharma</h1>
 <h3>A passionate frontend web developer from India</h3>
